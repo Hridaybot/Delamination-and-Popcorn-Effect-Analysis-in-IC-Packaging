@@ -22,15 +22,7 @@ The objective is to identify the failure mechanism, determine the root cause, an
 
 ---
 
-## 📈 Failure Trend
-
-![Failure Trend](assets/failure_trend.png)
-
-*Figure: Failure rate increases significantly with higher moisture exposure, indicating strong correlation.*
-
----
-
-## 🔍 Key Findings
+##  Key Findings
 
 - Failure occurs only after thermal exposure (reflow-like conditions)  
 - Failure is mechanical in nature (delamination and cracking)  
@@ -40,25 +32,25 @@ The objective is to identify the failure mechanism, determine the root cause, an
 
 ## 💧 Moisture Absorption
 
-![Moisture Absorption](assets/moisture-capture.png)
+![Moisture Absorption](./assests/moisture-capture.png)
 
-*Figure->moisture-capture.png: Semiconductor packages can absorb moisture from the environment, which becomes critical during high-temperature processes.*
+*Figure: Semiconductor packages can absorb moisture from the environment, which becomes critical during high-temperature processes.*
 
 ---
 
 ## 🔥 Physical Failure Mechanism
 
-![Popcorn Effect](assets/popcorn-effect.png)
+![Popcorn Effect](./assests/popcorn-effect.png)
 
-*Figure->popcorn-effect.png: Moisture inside the package vaporizes during thermal exposure, creating internal pressure that leads to delamination and package cracking (popcorn effect).*
+*Figure: Moisture inside the package vaporizes during thermal exposure, creating internal pressure that leads to delamination and package cracking (popcorn effect).*
 
 ---
 
 ## 🔬 Validation
 
-![CSAM](assets/delamination-detection.png)
+![CSAM](./assests/delamination-detection.png)
 
-*Figure->delamination-detection.png: CSAM (C-Mode Scanning Acoustic Microscopy) is used to detect internal delamination and interface separation in IC packages.*
+*Figure: CSAM (C-Mode Scanning Acoustic Microscopy) is used to detect internal delamination and interface separation in IC packages.*
 
 ## 🛠️ Corrective Actions
 
